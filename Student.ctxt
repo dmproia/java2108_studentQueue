@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=arrivalTime\ serviceTime\ completionTime
+comment0.target=Student(int,\ int,\ int)
+comment1.params=arrivalTime\ serviceTime
+comment1.target=Student(int,\ int)
+comment2.params=
+comment2.target=int\ getArrivalTime()
+comment3.params=
+comment3.target=int\ getServiceTime()
+comment4.params=
+comment4.target=int\ getCompletionTime()
+comment5.params=completionTime
+comment5.target=void\ setCompletionTime(int)
+numComments=6
